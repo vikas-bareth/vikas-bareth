@@ -8,21 +8,10 @@
 
 <div align="center">
 
-<a href="https://vikasbareth.in" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Portfolio-vikasbareth.in-2ea44f?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/vikas-bareth" target="_blank">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" />
-</a>
-
-<a href="mailto:iamvikasbareth@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/📧_Email-Me-red?style=for-the-badge" />
-</a>
-
-<a href="tel:+917000476646">
-  <img src="https://img.shields.io/badge/📞_Call-7000476646-green?style=for-the-badge" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-vikasbareth.in-2ea44f?style=for-the-badge)](https://vikasbareth.in)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vikas-bareth)
+[![Email](https://img.shields.io/badge/📧_Email-Me-red?style=for-the-badge)](mailto:iamvikasbareth@gmail.com)
+[![Phone](https://img.shields.io/badge/📞_Call-7000476646-green?style=for-the-badge)](tel:+917000476646)
 
 </div>
 
