@@ -72,8 +72,8 @@ Git, GitHub, Postman, Figma, JIRA
 
 | Project             | Tech Stack              | Live Demo                                           | Code Repo                                            | Note |
 |---------------------|-------------------------|-----------------------------------------------------|------------------------------------------------------|------|
-| ElekarsCab          | React, TailwindCSS      | [🌐 Visit](https://elekarscab.vercel.app)           | 🔒 Private (NDA) | Personal cab booking UI |
-| Camping Grounds     | MERN, Bootstrap         | [⛺ Demo](https://camping-app-demo.vercel.app)      | [📦 Repo](https://github.com/iamvikasbareth/Camping-Grounds) | Full stack learning project |
+| ElekarsCab          | React, TailwindCSS      | [🌐 Visit](https://elekarscab.com/)           | 🔒 Private (NDA) | Personal cab booking UI |
+| Camping Grounds     | MERN, Bootstrap         | [⛺ Demo](https://campinggrounds.onrender.com/)      | [📦 Repo](https://github.com/vikas-bareth/campingGround) | Full stack learning project |
 | Shopify MSC App     | NodeJs, AWS, PostgreSQL | [🛍️ MySellerCentral](https://apps.shopify.com/mysellercentral) | 🔒 Private (NDA) | 🚀 Published on Shopify App Store |
 
 ---
@@ -119,11 +119,11 @@ Coursework: Algorithms, DBMS, Cloud Computing
 
 - 🔭 Currently exploring: Microservices with NestJS  
 - 🌱 Learning: Advanced AWS Architectures  
-- 💬 Ask me about: Marketplace API integrations (Amazon SP-API, Shopify, eBay)  
+- 💬 Ask me about: Marketplace API integrations (Amazon SP-API/Ads-API, Shopify, eBay)  
 - ⚡ Fun fact: If I do something more than twice, I automate it 😄
 
 <div align="center">
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=iamvikasbareth&color=blue&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=vikas-bareth&color=blue&style=flat-square)
 
 </div>
