@@ -1,7 +1,8 @@
-<!-- Banner -->
+<!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Vikas+Bareth;Full+Stack+Developer+(MERN%2C+NestJS);TypeScript+%7C+PostgreSQL+%7C+AWS;Let's+Build+Something+Awesome!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=600&lines=Hi+I'm+Vikas+Bareth;Full+Stack+Developer+(MERN+%2B+NestJS);TypeScript+%7C+PostgreSQL+%7C+AWS;Let's+Build+Something+Awesome!+🚀" alt="Typing SVG" />
 </p>
+
 
 # 👨‍💻 Vikas Bareth
 
@@ -16,7 +17,7 @@
 
 ---
 
-## 🔥 Full-Stack Engineer | MERN | NestJS | TypeScript | AWS
+## 🔥 Full-Stack Engineer | MERN | SQL | NestJS | TypeScript | AWS 
 
 **Building bridges between marketplaces and merchants**  
 Specializing in e-commerce integrations (Shopify / Amazon / eBay) with scalable backends and intuitive dashboards.
