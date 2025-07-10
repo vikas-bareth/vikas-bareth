@@ -82,15 +82,6 @@ Git, GitHub, Postman, Figma, JIRA
 
 ---
 
-## 🎓 Education
-
-🎓 **Shri Shankaracharya Technical Campus**  
-**B.Tech - Computer Science & Engineering (2019–2023)**  
-CGPA: 7.5/10  
-Coursework: Algorithms, DBMS, Cloud Computing
-
----
-
 ## ⚙️ Daily Drivers
 
 <div align="center">
