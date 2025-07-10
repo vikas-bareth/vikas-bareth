@@ -20,8 +20,12 @@
 
 ## 🔥 Full-Stack Engineer | MERN | SQL | NestJS | TypeScript | AWS 
 
-**Building bridges between marketplaces and merchants**  
-Specializing in e-commerce integrations (Shopify / Amazon / eBay) with scalable backends and intuitive dashboards.
+**Engineering scalable web applications with robust APIs and clean architecture**  
+Experienced in designing RESTful and GraphQL APIs, applying SOLID principles and OOP for maintainable backend systems. Skilled in full-stack development using TypeScript, React, Node.js, NestJS, PostgreSQL, and AWS (SQS, Lambda, EC2). I focus on writing clean, testable code and building intuitive, performant user interfaces.
+
+
+
+
 
 ---
 
